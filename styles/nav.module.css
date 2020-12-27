@@ -1,0 +1,18 @@
+.nav {
+	position: fixed;
+	top: 5%;
+	right: 50%;
+	transform: translateX(50%);
+}
+
+.ul {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 40vw;
+	list-style-type: none;
+}
+
+.ul li {
+	font-size: 20px;
+}

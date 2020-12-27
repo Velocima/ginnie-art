@@ -8,7 +8,7 @@ export default function Home() {
 				<title>Virginnie Hartley</title>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
-			<Nav></Nav>
+			<Nav />
 			<main>
 				<h1>Virginnie Hartley</h1>
 				<h2>Artist</h2>
