@@ -4,7 +4,7 @@ export default function Contact() {
 	return (
 		<>
 			<Nav></Nav>
-			<main>Gallery</main>
+			<main>Galleries</main>
 		</>
 	);
 }
