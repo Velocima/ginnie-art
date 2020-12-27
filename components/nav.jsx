@@ -12,7 +12,7 @@ export default function Nav() {
 				</li>
 				<li>
 					<Link href='/galleries'>
-						<a>Gallery</a>
+						<a>Galleries</a>
 					</Link>
 				</li>
 				<li>
