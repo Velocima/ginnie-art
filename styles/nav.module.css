@@ -1,6 +1,6 @@
 .nav {
 	position: fixed;
-	top: 5%;
+	top: 20px;
 	right: 50%;
 	transform: translateX(50%);
 }
@@ -9,10 +9,13 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 40vw;
+	width: 500px;
 	list-style-type: none;
+	background-color: rgba(210, 240, 251, 0.7);
+	padding: 20px;
+	border-radius: 20px;
 }
 
 .ul li {
-	font-size: 20px;
+	font-size: 24px;
 }
