@@ -1,3 +1,10 @@
+import Nav from '../components/nav';
+
 export default function Contact() {
-	return <main>Contact</main>;
+	return (
+		<>
+			<Nav></Nav>
+			<main>Contact</main>
+		</>
+	);
 }
