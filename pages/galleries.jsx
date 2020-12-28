@@ -30,7 +30,7 @@ export default function Contact({ galleriesData }) {
 									alt={gallery.images[0].alt}
 								/>
 								<div className={style.overlay}>
-									<p>{gallery.title}</p>
+									<h1>{gallery.title}</h1>
 								</div>
 							</a>
 						</Link>
