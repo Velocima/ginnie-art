@@ -1,0 +1,31 @@
+.banner {
+	background-image: url('/images/contact.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 400px;
+	display: grid;
+	place-items: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+}
+
+.contactInfo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 40px;
+}
+
+.contactInfo a {
+	display: grid;
+	grid-template-columns: 50px 200px;
+	place-items: center;
+	font-size: 24px;
+}
+
+.icon {
+	font-size: 40px;
+}
