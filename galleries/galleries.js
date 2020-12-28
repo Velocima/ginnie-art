@@ -19,8 +19,8 @@ const galleries = [
 	{
 		title: 'two',
 		images: [
-			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper2.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper4.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper5.jpg', alt: '' },
@@ -36,9 +36,9 @@ const galleries = [
 	{
 		title: 'three',
 		images: [
+			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper2.jpg', alt: '' },
-			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper4.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper5.jpg', alt: '' },
 			{ image: '/images/gallery/wallpaper6.jpg', alt: '' },

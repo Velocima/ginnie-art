@@ -30,7 +30,10 @@ export default function GalleryLayout({ images, title }) {
 		<>
 			<Nav />
 			<main>
-				<section className={style.banner}>
+				<section
+					className={style.banner}
+					style={{ backgroundImage: `url('${images[0].image}')` }}
+				>
 					<h1>{title}</h1>
 				</section>
 				<section className={style.gallery}>
