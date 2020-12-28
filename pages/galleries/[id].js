@@ -23,7 +23,7 @@ export default function Gallery({ postData }) {
 	return (
 		<>
 			<Head>
-				<title>{postData.title}</title>
+				<title>{`Virginie Hartley | Galleries | ${postData.title}`}</title>
 			</Head>
 			<GalleryLayout images={postData.images} title={postData.title} />
 		</>
