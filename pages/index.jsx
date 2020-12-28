@@ -6,7 +6,7 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Virginnie Hartley</title>
+				<title>Virginie Hartley</title>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 			<Nav />
