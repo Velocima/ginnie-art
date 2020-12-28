@@ -3,8 +3,8 @@ import style from '../styles/nav.module.css';
 
 export default function Nav() {
 	return (
-		<nav class={style.nav}>
-			<ul class={style.ul}>
+		<nav className={style.nav}>
+			<ul className={style.ul}>
 				<li>
 					<Link href='/'>
 						<a>Home</a>

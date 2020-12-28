@@ -11,12 +11,12 @@ export default function Home() {
 			</Head>
 			<Nav />
 			<main>
-				<section class={style.banner}>
+				<section className={style.banner}>
 					<h1>Virginie Hartley</h1>
 					<h2>Artist</h2>
 					<h2>Illustrator</h2>
 				</section>
-				<section class={style.about}>
+				<section className={style.about}>
 					<img src='images/profile.jpg' alt='Artist and illustrator Virginnie Hartley' />
 					<p>
 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, beatae

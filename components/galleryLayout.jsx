@@ -39,7 +39,7 @@ export default function GalleryLayout({ images, title }) {
 				<section className={style.gallery}>
 					{images.map((image) => {
 						return (
-							<div className={style.overflowContainer}>
+							<div className={style.overflowContainer} key={image.image}>
 								<img
 									src={image.image}
 									alt={image.alt}
