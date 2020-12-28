@@ -1,0 +1,55 @@
+const galleries = [
+	{
+		title: 'one',
+		images: [
+			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper2.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper4.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper5.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper6.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper7.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper8.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper9.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper10.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper11.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper12.jpg', alt: '' },
+		],
+	},
+	{
+		title: 'two',
+		images: [
+			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper2.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper4.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper5.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper6.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper7.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper8.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper9.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper10.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper11.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper12.jpg', alt: '' },
+		],
+	},
+	{
+		title: 'three',
+		images: [
+			{ image: '/images/gallery/wallpaper1.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper2.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper3.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper4.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper5.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper6.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper7.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper8.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper9.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper10.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper11.jpg', alt: '' },
+			{ image: '/images/gallery/wallpaper12.jpg', alt: '' },
+		],
+	},
+];
+
+export default galleries;
