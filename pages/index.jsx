@@ -12,7 +12,7 @@ export default function Home() {
 			<Nav />
 			<main>
 				<section class={style.banner}>
-					<h1>Virginnie Hartley</h1>
+					<h1>Virginie Hartley</h1>
 					<h2>Artist</h2>
 					<h2>Illustrator</h2>
 				</section>
