@@ -18,7 +18,7 @@ export default function Contact({ galleriesData }) {
 			<main className={style.main}>
 				{galleriesData.map((gallery) => {
 					return (
-						<Link href={`/gallery/${gallery.title}`}>
+						<Link href={`/galleries/${gallery.title}`}>
 							<a className={style.link}>
 								<img
 									className={style.img}
