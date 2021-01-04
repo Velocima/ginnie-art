@@ -19,6 +19,9 @@ export default function Contact({ galleriesData }) {
 				<title>Virginie Hartley | Galleries</title>
 			</Head>
 			<Nav></Nav>
+			<section className={style.banner}>
+				<h1>Galleries</h1>
+			</section>
 			<main className={style.main}>
 				{galleriesData.map((gallery) => {
 					return (
