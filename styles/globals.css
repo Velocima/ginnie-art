@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 html,
 body {
@@ -13,7 +14,8 @@ a {
 
 h1,
 h2 {
-	font-family: 'Kaushan Script', cursive;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 4px;
 }
 * {
 	padding: 0;
