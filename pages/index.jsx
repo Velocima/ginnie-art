@@ -17,7 +17,7 @@ export default function Home() {
 					<h2>Illustrator</h2>
 				</section>
 				<section className={style.about}>
-					<img src='images/profile.jpg' alt='Artist and illustrator Virginnie Hartley' />
+					<img src='images/profile.jpg' alt='Artist and illustrator Virginie Hartley' />
 					<p>
 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, beatae
 						odio mollitia fuga inventore dolore error eos sapiente blanditiis architecto
